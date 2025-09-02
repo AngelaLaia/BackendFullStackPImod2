@@ -1,0 +1,27 @@
+{
+  "name": "backendfullstackpimod2",
+  "version": "1.0.0",
+  "description": "projeto node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AngelaLaia/BackendFullStackPImod2.git"
+  },
+  "keywords": [
+    "backend",
+    "and",
+    "frontend"
+  ],
+  "author": "Angela Laia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AngelaLaia/BackendFullStackPImod2/issues"
+  },
+  "homepage": "https://github.com/AngelaLaia/BackendFullStackPImod2#readme",
+  "dependencies": {
+    "git": "^0.1.5"
+  }
+}
